@@ -1,0 +1,30 @@
+Basic Controls
+=======================
+
+up arrow -> JUMP
+
+left arrow -> To move the ball left side
+
+right arrow -> To move the ball right side
+
+
+
+Game Play
+
+========================
+
+-> Initially player will be in level 1 and will start at a score of zero .
+
+-> The world in level-1 will consists of balls coming from left (some having a plank attached to them ) , when player lands on these balls
+   the balls will be killed and player score will increase , depending upon the ball which player has killed . There will be blue arrow 	  blinking indicating the direction to go .
+
+-> The player can go towards right still he finds the exit door . If player score is more than required for entering the next level then the exit door (kind of square box situated at top right) will be in blue colour , else it will be in Red colour indicating the player has to score more to cross this level .
+
+-> When player is going from left to right there will be a brick which when collided with player releases a ball if the player takes this ball score of the player will increase more .
+
+
+-> When player moves to level 2 again the score will become zero , The whole thing is similer to previous level but instead of having a spikes and magnets . When player lands on the spikes score of the player will be decreased , and player starts again at starting point . Magnet appears randomly on both sides imparting the acceleration towards it .
+
+-> In level-3 , which is the last level of the game there is no exit door but a star will appear at certain time intervals which player have to pick to end the game .(The player should have crossed the minimum score required for this level ) .
+
+      
