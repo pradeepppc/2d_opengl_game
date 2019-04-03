@@ -1,5 +1,4 @@
-Graphics Assignment  Code
-==========================
+
 This is the code for the 2D game which i have created as part of the assignment .
 
 
